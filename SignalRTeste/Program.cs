@@ -31,7 +31,6 @@ namespace SignalRTeste
 
                             socketOpt.UseConnectionLogging();
                             socketOpt.UseConnectionHandler<Handler>();
-                            socketOpt.
 
                             //socketOpt.UseHub<Escuta>();
                         });
